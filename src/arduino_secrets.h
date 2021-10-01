@@ -1,0 +1,2 @@
+#define SECRET_SSID "ESP32TEST"
+#define SECRET_PASS "pass2021"
